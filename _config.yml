@@ -1,6 +1,6 @@
 # Site
 title:              Sandun Jayarathna
-bio:                'Postdoc'
+bio:                'Postdoc in Medical Physics at MD Anderson'
 description:        "Developer."
 reading_time:       true
 words_per_minute:   200
@@ -39,10 +39,10 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 #twitter:            username
-#facebook:           username
-#github-url:         username
+facebook:           username
+github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          username
 #xing:              username
 #instagram:          username
 #lastfm:            username
@@ -50,7 +50,7 @@ disqus_shortname:   taylantatli
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-#steam:              username
+steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
