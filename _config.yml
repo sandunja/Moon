@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "RAWAN"
+title                    : "RAVAN"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sandun Jayarathna"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Sandun Jayarathna"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Science | Machine Learning | MC Simulations"
+  bio              : "Research Engineer"
   location         : "Houston, TX"
   email            :
   links:
