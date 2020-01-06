@@ -111,6 +111,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist"
   location         : "Houston, TX"
+  #github           : "sandunja"
   email            :
   links:
     - label: "Email"
