@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sandun Jayarathna"
+  #name             : "Sandun Jayarathna"
   avatar           : "/images/profile1.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Research Engineer"
   location         : "Houston, TX"
