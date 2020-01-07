@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "RAVAN"
+title                    : "Sandun Jayarathna"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Sandun Jayarathna"
+name                     : #""
 description              : "Research Engineer | Data Scientist"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -115,7 +115,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:sandunja@gmail.com
+      #url: mailto:sandunja@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
